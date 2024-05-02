@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/C4E12AQE1HWdIDDkyEA/article-cover_image-shrink_600_2000/0/1646907885048?e=2147483647&v=beta&t=9I6AOJ9-DyXZhVk47FH0HZWLMB_ePf6Ilc2aMIFchQM)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sanduni Bandara</h1>
 <h3 align="center">A passionate developer</h3>
-img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif"
+<img align="right" alt="Coding" width="400" src="https://startcoding.co.in/wp-content/uploads/2021/12/coding-for-kids.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdilhara19&label=Profile%20views&color=0e75b6&style=flat" alt="sdilhara19" /> </p>
 
 
